@@ -1,5 +1,8 @@
 # weather-app
 
+##This is the hosted one previous repository will not be removed
+url for the live project: https://weatherisnow.netlify.app/
+
 ## Project setup
 ```
 npm install
